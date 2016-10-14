@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespereHomework\ShakespereHomework\bin\Debug\ShakespereHomework.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespereHomework\ShakespereHomework\bin\Debug\ShakespereHomework.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespereHomework\ShakespereHomework\bin\Debug\ShakespereHomework.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespereHomework\ShakespereHomework\obj\Debug\ShakespereHomework.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespereHomework\ShakespereHomework\obj\Debug\ShakespereHomework.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespereHomework\ShakespereHomework\obj\Debug\ShakespereHomework.pdb
